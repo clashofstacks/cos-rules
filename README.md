@@ -13,7 +13,7 @@ After each turn, the play proceeds  clockwise from the left of the current playe
 ### Taking turn
 When it’s the player’s turn, he must play out a single stack card, action card or pass the turn:
   - **Stack cards** are placed in front of the player and cannot be added to another players stack cards.
-  - **Action cards** can be added to any players stack cards.
+  - **Action cards** (_marked with red or blue background_) can be added to any players stack cards.
   - By **passing a turn** to the next player no actions are taken.
 
 ### The Web stack
